@@ -1,0 +1,58 @@
+[
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "Selecciona tus colores favoritos:",
+		"opciones": ["Rojo", "Azul", "Verde", "Negro", "Blanco"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "¿Cuáles son tus hobbies?",
+		"opciones": ["Deportes", "Lectura", "Música", "Viajar", "Cine"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "Elige tus comidas favoritas:",
+		"opciones": ["Pizza", "Sushi", "Ensalada", "Hamburguesa", "Pasta"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "¿Qué géneros de películas prefieres?",
+		"opciones": [
+			"Acción",
+			"Comedia",
+			"Drama",
+			"Ciencia ficción",
+			"Documental"
+		]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "Selecciona tus destinos de vacaciones ideales:",
+		"opciones": ["Playa", "Montaña", "Ciudad", "Camping", "Cultural"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "Elige tus marcas de ropa preferidas:",
+		"opciones": ["Nike", "Adidas", "Zara", "H&M", "GAP"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "¿Cuáles son tus animales favoritos?",
+		"opciones": ["Perro", "Gato", "Pájaro", "Elefante", "Delfín"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "Selecciona tus géneros musicales favoritos:",
+		"opciones": ["Rock", "Pop", "Rap", "Electrónica", "Clásica"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "Elige tus actividades al aire libre preferidas:",
+		"opciones": ["Senderismo", "Ciclismo", "Picnic", "Correr", "Pesca"]
+	},
+	{
+		"tipo": "seleccion_varias",
+		"pregunta": "¿Cuáles son tus estaciones del año favoritas?",
+		"opciones": ["Primavera", "Verano", "Otoño", "Invierno"]
+	}
+]
