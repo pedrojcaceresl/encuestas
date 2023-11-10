@@ -1,15 +1,10 @@
 ## Cómo ejecutar el proyecto.
 
-Abrir la terminal de vscode
+- Clonar el repositorio
+- Abrir la terminal de vscode
 
-```
+```bash
 cd servidor
-```
-
-```
 npm i
-```
-
-```
 npm start
 ```
